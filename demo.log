@@ -1,0 +1,85 @@
+>> demo
+Creating Poisson-based composit 20140216_CanadaVictory_NonC.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 1.633987 seconds.
+====
+Elapsed time is 1.658250 seconds.
+Creating Poisson-based composit 20140216_CanadaVictory.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 1.759640 seconds.
+====
+Elapsed time is 1.781014 seconds.
+Creating Poisson-based composit 20140216_SamBarbados_NonC.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 3.931582 seconds.
+====
+Elapsed time is 3.968572 seconds.
+Creating Poisson-based composit 20140216_SamBarbados.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 4.038013 seconds.
+====
+Elapsed time is 4.072273 seconds.
+Creating Poisson-based composit 20140216_SamBoston_NonC.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 3.545252 seconds.
+====
+Elapsed time is 3.581964 seconds.
+Creating Poisson-based composit 20140216_SamBoston.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 3.815389 seconds.
+====
+Elapsed time is 3.845084 seconds.
+Creating Poisson-based composit 20140216_SamRodeo_NonC.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 1.094989 seconds.
+====
+Elapsed time is 1.111371 seconds.
+Creating Poisson-based composit 20140216_SamRodeo.png
+====
+Poisson_dallen2ndAttempt :: Executing
+====
+Poisson_dallen2ndAttempt :: End
+Elapsed time is 1.100811 seconds.
+====
+Elapsed time is 1.118406 seconds.
+>> 
+
+
+demo Poisson_dallen
+Creating Poisson-based composit 20140216_CanadaVictory_NonC.png
+Elapsed time is 17.220290 seconds.
+Creating Poisson-based composit 20140216_CanadaVictory.png
+Elapsed time is 88.478365 seconds.
+Creating Poisson-based composit 20140216_SamBarbados_NonC.png
+Elapsed time is 16.168216 seconds.
+Creating Poisson-based composit 20140216_SamBarbados.png
+Elapsed time is 87.971197 seconds.
+Creating Poisson-based composit 20140216_SamBoston_NonC.png
+Elapsed time is 15.867909 seconds.
+Creating Poisson-based composit 20140216_SamBoston.png
+Elapsed time is 90.318811 seconds.
+Creating Poisson-based composit 20140216_SamRodeo_NonC.png
+Elapsed time is 14.633207 seconds.
+Creating Poisson-based composit 20140216_SamRodeo.png
+Elapsed time is 92.081665 seconds.
